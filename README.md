@@ -17,7 +17,7 @@ Approximately six hours after retrieval of the SHAB-2 payload, the OptiCell was 
 
 It is important to note that these results were observed without a ground control condition. Thus, we cannot be confident that our results are due to the experimental conditions. We encourage future teams to validate these results.
 
-![Figure] (https://github.com/tacaro/SHABprotocols/blob/master/Fig6.png)
+![Figure2](https://github.com/tacaro/SHABprotocols/blob/master/Fig6.png)
 
 # Exposure of Bacterial Endospores to the Stratosphere
 The goal of this experiment was to assess the survivorship of various bacteria in the upper troposphere and lower stratosphere. Biological Sample Trays (BSTs) outfitted with aluminum coupons containing microbial samples were carried aloft and exposed to the ambient conditions for a desired duration.
