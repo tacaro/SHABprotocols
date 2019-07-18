@@ -20,7 +20,7 @@ It is important to note that these results were observed without a ground contro
 ![Figure2](https://github.com/tacaro/SHABprotocols/blob/master/Fig6.png)
 
 # Exposure of Bacterial Endospores to the Stratosphere
-The goal of this experiment was to assess the survivorship of various bacteria in the upper troposphere and lower stratosphere. Biological Sample Trays (BSTs) outfitted with aluminum coupons containing microbial samples were carried aloft and exposed to the ambient conditions for a desired duration.
+The goal of this experiment was to assess the survivorship of various bacteria in the upper troposphere and lower stratosphere. Biological Sample Trays (BSTs) outfitted with aluminum coupons containing microbial samples were carried aloft and exposed to the ambient conditions for a desired duration. Coupons with identical cell concentrations were held in a sterile biosafety cabinet as a ground control.
 
 Prior to flight, aluminum coupons were autoclaved, allowed to cool and dry, and inoculated with 10 µL of microbial culture in quadruplicate. Our methods used cultures of Pseudomonas syringae (B728A) grown to a concentration of 109 CFU/mL and Paenibacillus xerothermodurans grown to a concentration of 105 CFU/mL, enumerated by the MPN method. After flight, the coupons were aseptically removed from the payload. Cells were washed from the coupons using 20 µL of sterile water, which was pipetted up and down until cells no longer adhered to coupon surface. P. syringae was plated onto King’s Hard Agar and P. xerothermodurans was plated onto R2A minimal media. Viable cells were enumerated by the MPN method.
 
