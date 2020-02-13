@@ -1,7 +1,7 @@
 # SHAB Protocols
 This is a supplemental file to a published research article in *Gravitational and Space Research*.
 
-Citation:
+**Citation**:
 McKaig, J., Caro, T., Hyer, A., Talburt, E., Verma, S., Cui, K., Boguraev, A., Heit, M., Johnson, A., Johnson, E., Jong, A., Shepard, B., Stankiewiz, J., Tran, N., & Rask, J. (2019). A High-Altitude Balloon Platform for Space Life Sciences Education, Gravitational and Space Research, 7(1), 62-69. doi: https://doi.org/10.2478/gsr-2019-0007
 
 
