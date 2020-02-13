@@ -1,5 +1,9 @@
 # SHAB Protocols
-Student-generated protocols for life sciences research at high altitude
+This is a supplemental file to a published research article in *Gravitational and Space Research*.
+
+Citation:
+McKaig, J., Caro, T., Hyer, A., Talburt, E., Verma, S., Cui, K., Boguraev, A., Heit, M., Johnson, A., Johnson, E., Jong, A., Shepard, B., Stankiewiz, J., Tran, N., & Rask, J. (2019). A High-Altitude Balloon Platform for Space Life Sciences Education, Gravitational and Space Research, 7(1), 62-69. doi: https://doi.org/10.2478/gsr-2019-0007
+
 
 # Flight Validation of Active Aerosol Sampling at High Altitude
 Sampling devices that actively draw air are efficient in the sample volume they can collect compared to passive sampling instruments, but this efficiency is proportional to ambient air pressure. This experiment examines the diminishing returns of active sampling as a HAB payload rises. We used an aerosol black carbon detector (ABCD) and emphasize that any active sampling system can be used for similar experiments.
